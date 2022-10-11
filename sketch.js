@@ -21,7 +21,7 @@ var restartButton;
 var explosionSound;
 function preload(){
    spaceImg=loadImage("Infinite space.jpg") 
-   alienship1Img=loadImage("Alien Spaceship 1.jpg")
+   alienship1Img=loadImage("Alien Spaceship 1.png")
    spaceShuttleImg=loadImage("spaceShuttle.png")
    explosion = loadAnimation("1.png","2.png","3.png","4.png","5.png");
   heartImg=loadImage("heart.png")
